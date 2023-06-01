@@ -1,0 +1,6 @@
+# 1 - This is a test comment
+# 2 - this is another test comment
+# 3 - this is yet another test comment
+# 4 - ?????
+*.test.com
+*.example.com # test note
